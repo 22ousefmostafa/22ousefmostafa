@@ -29,13 +29,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=22ousefmostafa&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=22ousefmostafa&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### 🔥 Streak
 <p align="center">
@@ -44,12 +37,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=22ousefmostafa&theme=onedark" />
-</p>
-
----
 
 ### 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/yousseff-mosstafaa-97a468397/
